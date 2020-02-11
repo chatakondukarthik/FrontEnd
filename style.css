@@ -28,3 +28,7 @@ p.two{
     background-color: transparent;
     color: blueviolet;
 }
+body{
+    background-image: url(IMG_20200209_183323.jpg);
+    background-size: cover;
+}
