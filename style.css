@@ -1,0 +1,30 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    background: yellow;
+    text-align: center;
+}
+p{
+    font-family: cursive;
+    color: brown;
+    background: lightgreen;
+    text-align: justify;
+    font-size: 15px;
+}
+div{
+    height: 300px;
+    width: 200px;
+    background: url("DemonSlayer.png");
+    background-size: cover;
+}
+.one{
+    height: 500px;
+    width: 400px;
+    font-size: 20px;
+    
+}
+p.two{
+    font-family: serif;
+    background-color: transparent;
+    color: blueviolet;
+}
